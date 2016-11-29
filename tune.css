@@ -1,28 +1,36 @@
 /*Michael Plemmons*/
-h1 {
+h1, h2 {
   text-align:center;
   font-size: 3em;
-  font-family:"Comic Sans MS", cursive, sans-serif;
+
 background-color: orange;
 color: darkred;
-border-style: dashed;
+border-style: solid;
 border-radius: 25px;
-  /*color: white;*/
 
 }
 
-div.story {
+/*div.story {
   float:left;
   width: 40%;
   color:orange;
   font-size: 1.5em;
 }
-
+*/
 body {
-background:radial-gradient(red,black);
+background:radial-gradient(green,red,yellow);
 
 }
-h2 a.link_text {
-
-  color:springgreen;
+div {
+  float:bottom;
+  text-align: center;
+}
+a.buttons {
+  font-size:15em;
+  text-decoration: none;
+  background-color: orange;
+  border-radius: 50px;
+  padding:10px;
+  color:black;
+  border-style:dashed;
 }
