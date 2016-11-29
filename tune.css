@@ -1,0 +1,28 @@
+/*Michael Plemmons*/
+h1 {
+  text-align:center;
+  font-size: 3em;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+background-color: orange;
+color: darkred;
+border-style: dashed;
+border-radius: 25px;
+  /*color: white;*/
+
+}
+
+div.story {
+  float:left;
+  width: 40%;
+  color:orange;
+  font-size: 1.5em;
+}
+
+body {
+background:radial-gradient(red,black);
+
+}
+h2 a.link_text {
+
+  color:springgreen;
+}
