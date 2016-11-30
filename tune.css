@@ -10,13 +10,6 @@ border-radius: 25px;
 
 }
 
-/*div.story {
-  float:left;
-  width: 40%;
-  color:orange;
-  font-size: 1.5em;
-}
-*/
 body {
 background:radial-gradient(green,red,yellow);
 
@@ -33,4 +26,14 @@ a.buttons {
   padding:10px;
   color:black;
   border-style:dashed;
+}
+.box{
+  padding-bottom:10px;
+}
+ol, ul {
+  font-size: 2em;
+}
+button {
+  font-size:2em;
+  margin-left:750px;
 }
