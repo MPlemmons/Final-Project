@@ -9,6 +9,10 @@ border-style: solid;
 border-radius: 25px;
 
 }
+#correct{
+  text-align:center;
+  font-size: 6em;
+}
 
 body {
 background:radial-gradient(green,red,yellow);
@@ -39,5 +43,5 @@ button {
 }
 
 #results {
-  
+
 }
